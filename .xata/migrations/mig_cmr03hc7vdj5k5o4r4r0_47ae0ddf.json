@@ -1,0 +1,16 @@
+{
+  "id": "mig_cmr03hc7vdj5k5o4r4r0",
+  "parentID": "mig_cmqvvtc7vdj5k5o4r4ng",
+  "checksum": "1:47ae0ddf9d218b15bb5daf97c1d8ddf3de4c15b633a4407855610f7d1e70d754",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string"
+        },
+        "table": "study"
+      }
+    }
+  ]
+}

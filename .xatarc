@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://RealT-2894a9.us-east-1.xata.sh/db/test-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

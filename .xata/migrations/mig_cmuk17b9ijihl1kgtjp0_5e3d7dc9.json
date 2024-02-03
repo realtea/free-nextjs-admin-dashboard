@@ -1,0 +1,16 @@
+{
+  "id": "mig_cmuk17b9ijihl1kgtjp0",
+  "parentID": "mig_cmuk11g09nkmujgln0j0",
+  "checksum": "1:5e3d7dc9befa64b155240c3b3b8f9472163521ad86f59f02c5a0d7ed83e585af",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "public",
+          "type": "bool"
+        },
+        "table": "study"
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "mig_cmlj91q4iq0pp375n7f0",
+  "parentID": "mig_cmli5jj4ffclf5tffpog",
+  "checksum": "1:90490d8211101f3fd35efba4d6cdbb81a220c17b058ac76f30f7400d13197aff",
+  "operations": [
+    {
+      "addTable": {
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "BHSwordSort",
+          "type": "int"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "paragraphMarker",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "poetryMarker",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "KJVverseSortKJVbookKJVchapterKJVverse",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "BHSverseSortBHSbookBHSchapterBHSverse",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "clauseID",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "clauseKind",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "clauseType",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "BHSwordPointed",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "BHSwordConsonantal",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "SBLstyleTransliteration",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "poneticTranscription",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "HebrewLexeme",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "lexemeID",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "StrongNumber",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "extendedStrongNumber",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "morphologyCode",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "morphologyDetail",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "ETCBCgloss",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "extendedGloss",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "BSBsortBSB",
+          "type": "string"
+        },
+        "table": "BHSA-with-extended-features"
+      }
+    }
+  ]
+}

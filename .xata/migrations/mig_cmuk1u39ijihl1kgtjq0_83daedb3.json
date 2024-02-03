@@ -1,0 +1,18 @@
+{
+  "id": "mig_cmuk1u39ijihl1kgtjq0",
+  "parentID": "mig_cmuk17b9ijihl1kgtjp0",
+  "checksum": "1:83daedb36b331a7baf87e6c5687719f4513e4b12bc01fa7fa726a22743b5fc45",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "owner",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "user1"
+        },
+        "table": "study"
+      }
+    }
+  ]
+}

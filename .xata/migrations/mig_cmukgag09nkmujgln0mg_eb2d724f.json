@@ -1,0 +1,17 @@
+{
+  "id": "mig_cmukgag09nkmujgln0mg",
+  "parentID": "mig_cmuk1u39ijihl1kgtjq0",
+  "checksum": "1:eb2d724faf6ef73c2bb70618392e90ff7343352b353fc9841f90add80bc3528f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "starred",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "study"
+      }
+    }
+  ]
+}
